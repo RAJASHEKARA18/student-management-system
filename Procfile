@@ -1,0 +1,2 @@
+web: java -jar target/student_management-0.0.1-SNAPSHOT.jar
+
